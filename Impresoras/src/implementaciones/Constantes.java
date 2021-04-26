@@ -7,6 +7,6 @@ public class Constantes {
 	//static: Solo puede haber una instancia de esta constante.
 	public static final String BLANCONEGRO = "Blanco/Negro";
 	public static final String COLOR = "Color";
-	public static final String VERDE="Verde";
+	public static final String AZUL="Azul";
 
 }
