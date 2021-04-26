@@ -20,7 +20,7 @@ public class ProgramaPrincipal {
 		//Introduzco los valores
 		Impresora canon = new Canon("Canon", "C-001", Constantes.BLANCONEGRO, 2);
 		Impresora hp = new HP ("HP", "DJ231", Constantes.COLOR, true);
-		Impresora epson = new Epson("Epson", "EP-451", Constantes.BLANCONEGRO, false);
+		Impresora epson = new Epson("Epson", "EP-451", Constantes.VERDE, false);
 		
 		//Los añado al array
 		fabricantes.addFabricante(canon);
